@@ -58,8 +58,7 @@ Tokenizing astronomy text does not train a language model or give it scientific 
 
 ## References
 
-- [Build a Large Language Model (From Scratch) — official code repository](https://github.com/rasbt/LLMs-from-scratch)
-- [Chapter 2 — Working with Text Data](https://github.com/rasbt/LLMs-from-scratch/tree/main/ch02)
+- Build a Large Language Model from Scratch - by Sebastian Raschka
 
 Code adapted from the book will be credited alongside my experiments.
 
